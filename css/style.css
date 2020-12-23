@@ -8385,7 +8385,8 @@ h1, h2, h3, h4, h5,
     -ms-border-radius: 50%;
     border-radius: 50%; }
   .navbar-brand span {
-    color: #fff; }
+    color: #fff; 
+  font-size: 2rem;}
 
 .hero-wrap {
   width: 100%;
