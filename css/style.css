@@ -10258,9 +10258,9 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 .navbar-brand:after {
   position: absolute;
   top: 50%;
-  left: -12px;
-  width: 40px;
-  height: 40px;
+  left: -7.5px;
+  width: 32.5px;
+  height: 32.5px;
   content: '';
   background: #3e64ff;
   z-index: -1;
@@ -10275,7 +10275,7 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
 
 .navbar-brand span {
   color: #fff;
-  font-size: 2rem;
+  font-size: 27px;
 }
 
 .hero-wrap {
