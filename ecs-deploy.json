@@ -1,6 +1,6 @@
 [
     {
-      "name": "webpage",
+      "name": "sample-app",
       "imageUri": "s3://codepipeline-us-east-1-639077335001/Webpage-ECS/SourceArti/qJ9k9FZ"
     }
   ]
